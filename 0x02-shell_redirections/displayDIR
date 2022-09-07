@@ -1,10 +1,10 @@
 .:
 total 68
-drwxr-xr-x 3 root root 4096 Sep  7 03:58 .
+drwxr-xr-x 3 root root 4096 Sep  7 04:16 .
 drwxr-xr-x 5 root root   91 Sep  5 10:37 ..
 -rwxr--r-- 1 root root   32 Sep  6 08:54 0-hello_world
 -rwxr--r-- 1 root root   48 Sep  7 02:47 10-no_more_js
--rwxr--r-- 1 root root   61 Sep  7 03:58 11-directories
+-rwxr--r-- 1 root root   50 Sep  7 04:16 11-directories
 -rwxr--r-- 1 root root   23 Sep  6 09:05 1-confused_smiley
 -rwxr--r-- 1 root root   28 Sep  6 09:09 2-hellofile
 -rwxr--r-- 1 root root   39 Sep  6 09:22 3-twofiles
@@ -15,7 +15,7 @@ drwxr-xr-x 5 root root   91 Sep  5 10:37 ..
 -rwxr--r-- 1 root root   41 Sep  6 11:51 8-cwd_state
 -rwxr--r-- 1 root root   37 Sep  6 12:03 9-duplicate_last_line
 -rw-r--r-- 1 root root   12 Sep  6 10:28 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root    0 Sep  7 03:58 display_subDIR
+-rw-r--r-- 1 root root    0 Sep  7 04:16 displayDIR
 -rw-r--r-- 1 root root    8 Sep  6 09:06 File_1
 -rw-r--r-- 1 root root  891 Sep  6 12:03 iacta
 -rw-r--r-- 1 root root  888 Sep  6 11:52 ls_cwd_content
@@ -24,4 +24,4 @@ drwxr-xr-x 2 root root    6 Sep  6 12:16 main.js
 ./main.js:
 total 4
 drwxr-xr-x 2 root root    6 Sep  6 12:16 .
-drwxr-xr-x 3 root root 4096 Sep  7 03:58 ..
+drwxr-xr-x 3 root root 4096 Sep  7 04:16 ..
