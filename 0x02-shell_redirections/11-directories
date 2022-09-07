@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lRa > "display_subDIR" && cat display_subDIR
